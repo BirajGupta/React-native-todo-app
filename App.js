@@ -23,6 +23,7 @@ export default function App() {
   const submitHandler = (val) => {
     console.log("hello")
     console.log("bye")
+    console.log("lol")
     if(val.length > 3){
       let newTodos = [...todos]
 
