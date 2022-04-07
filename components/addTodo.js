@@ -8,8 +8,9 @@ const AddTodo = ({submitHandler}) => {
     const changeHandler = (val) =>{
         setTodo(val)
     }
-
+    console.log("idhr bhi")
     return (
+        
         <View>
             
             <TextInput
