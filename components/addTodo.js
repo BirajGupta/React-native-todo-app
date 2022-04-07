@@ -11,6 +11,7 @@ const AddTodo = ({submitHandler}) => {
 
     return (
         <View>
+            
             <TextInput
                 style={styles.input}
                 placeholder="new todo..."
